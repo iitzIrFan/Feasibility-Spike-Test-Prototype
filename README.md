@@ -181,4 +181,10 @@ If you'd like, I can now:
 - Add a minimal signed-upload server (Express + single `/sign` endpoint) and wire the app to use it
 - Or prepare a short demo script and screenshots for a founder pitch
 
-Which would you prefer next?
+## Video Preview
+
+Preview the recorded demo on Tella:
+
+- **Link:** https://www.tella.tv/video/irfans-video-at88
+
+
