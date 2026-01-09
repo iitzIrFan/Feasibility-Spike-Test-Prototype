@@ -167,19 +167,7 @@ If you want, I can scaffold a minimal Node.js endpoint to provide signed upload 
 - `src/db.js` — IndexedDB helpers
 - `src/cloudinary.js` — Cloudinary upload utility (retries, progress, validation)
 
----
 
-## Next steps (optional)
-
-- Replace unsigned uploads with signed uploads via a small backend (Node/Express or serverless)
-- Add server-side validation, rate-limiting and authenticated signed uploads
-- Add background upload queuing (service worker) to support large uploads and background resume on Android
-
----
-
-If you'd like, I can now:
-- Add a minimal signed-upload server (Express + single `/sign` endpoint) and wire the app to use it
-- Or prepare a short demo script and screenshots for a founder pitch
 
 ## Video Preview
 
