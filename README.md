@@ -174,5 +174,26 @@ If you want, I can scaffold a minimal Node.js endpoint to provide signed upload 
 Preview the recorded demo on Tella:
 
 - **Link:** https://www.tella.tv/video/irfans-video-at88
+\
+
+## Publishing to GitHub
+
+1. Initialize a local repo (if you haven't yet) and commit:
+
+```bash
+git init
+git add .
+git commit -m "chore: prepare project for GitHub"
+```
+
+2. Create a repository on GitHub and add the remote (replace URL):
+
+```bash
+git remote add origin https://github.com/your-username/mobile-video-recorder-spike.git
+git branch -M main
+git push -u origin main
+```
+
+Replace the remote URL with your repository URL and update `your-username`.
 
 
